@@ -36,7 +36,13 @@ h1,h2,h3,h4,h5 p{
     color: #fff;
 }
 #main{
+    width: 70%;
     border: 1px solid blue;
+    margin: 4rem auto;
+}
+#header-span{
+    color: rgb(177, 29, 190);
+    font-size: 30px;
 }
 
 /* footer */

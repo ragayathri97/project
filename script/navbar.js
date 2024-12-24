@@ -6,8 +6,8 @@ const navbar = ()=>{
             <div id="nav-links">
                 <a href="signup.html">Signup</a>
                 <a href="login.html">Login</a>
-                <a href="todods.html">Todos</a>
-                <a href="expenses.html">Expenses</a>
+                <a href="todos.html">Todos</a>
+                <a href="expences.html">Expenses</a>
             </div>
         </div>
     </div> `;
