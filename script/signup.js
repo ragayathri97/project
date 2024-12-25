@@ -37,6 +37,6 @@ form.addEventListener("submit", function () {
     })
     .catch((err) => {
       console.log(err);
-      alert("Something wenr wrong, Please try again later");
+      alert("Something went wrong, Please try again later");
     });
 });
